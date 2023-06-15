@@ -1,0 +1,16 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+
+# Python
+speedov2/__pycache__/
+speedov2/*/__pycache__/
+speedov2/*/*/__pycache__/
+speedov2/*/*/*/__pycache__/
+.env/
+.venv/
+venv
